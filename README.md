@@ -28,7 +28,7 @@ In conclusion, VisionEye is more than just a traffic monitoring system. It is a 
 
 **Step 3:** Wait until all installations are completed successfully. Then, run the program and see your result!
 
-[Watch the demo video](https://github.com/arafathosense/AI-Based-VisionEye-Traffic-Monitoring-System-Using-Machine-Learning-Deep-Learning-YOLOv8/blob/main/output_interactive/output_with_zones.mp4)
+<img width="1124" height="623" alt="image" src="https://github.com/user-attachments/assets/50f83391-583c-4d6e-ab6a-f4f053625913" />
 
 
 
