@@ -28,7 +28,8 @@ In conclusion, VisionEye is more than just a traffic monitoring system. It is a 
 
 **Step 3:** Wait until all installations are completed successfully. Then, run the program and see your result!
 
-<img width="1124" height="623" alt="image" src="https://github.com/user-attachments/assets/50f83391-583c-4d6e-ab6a-f4f053625913" />
+<img width="1103" height="620" alt="image" src="https://github.com/user-attachments/assets/5b86a48b-f2d6-4f9d-bbfa-d7c975230b6d" />
+
 
 
 
